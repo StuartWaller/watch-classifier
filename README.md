@@ -4,4 +4,4 @@
 
 # Additional Information: 
 - Unfortunately, this repository only contains the barebone amount of content to run in Heroku as the complete documentation is too large. 
-- For the image scraper, images, notebooks, and more, please see: https://github.com/StuartWaller/watch-classifier-all-content
+- For the image scraper, images, notebooks, and more, please see https://github.com/StuartWaller/watch-classifier-all-content
