@@ -1,5 +1,5 @@
 # Update
-- App down as of 1/14/21
+- App down as of 1/14/2
 # About
 - This was my first attempt at a Full Stack Machine Learning Project. 
 - Web Application: https://watch-classifier.herokuapp.com/
